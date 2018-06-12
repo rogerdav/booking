@@ -10,4 +10,5 @@ Visitors need to be given the option of creating a username or continuing as a g
 1. Research Google Calendar API
 2. Setup environment.
 3. Setup Basic landing Page and User creation.
+4. Wireframe the layout.
  
